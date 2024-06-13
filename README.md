@@ -1,1 +1,3 @@
 # CS
+## nvim
+neovim config
