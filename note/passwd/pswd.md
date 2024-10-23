@@ -1,0 +1,2 @@
+AMD:
+%VB'44Nr)xDXG-r
